@@ -1,7 +1,7 @@
 # tiktok-accounts-maker
 TikTok accounts maker created users algorithms x-ladon x-argus x-gorgon last version
 
-## last version 38.8.3
+## last version 39.6
 
 **Contact for api :** [https://t.me/Neo_Galaxy](https://t.me/Neo_Galaxy)
 ## telegram: @neo_galaxy
@@ -40,7 +40,7 @@ TikTok accounts maker created users algorithms x-ladon x-argus x-gorgon last ver
             "webUa": "Mozilla/5.0 (Linux; U; Android 13; en_US; SM-G988B Build/TQ2A.230505.002.A1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/112.0.5615.136 Mobile Safari/537.36",
             "osVersion": "13",
             "deviceType": "SM-G988B",
-            "appVersion": "35.1.3",
+            "appVersion": "39.6",
             "mssdkVersion": "v05.00.00-alpha.114-ov-android",
             "mssdkVersionCode": "83886112",
             "cmplEnc": "",
@@ -110,10 +110,10 @@ TikTok accounts maker created users algorithms x-ladon x-argus x-gorgon last ver
             "aid": "1233",
             "app_name": "musical_ly",
             "version_code": "350103",
-            "version_name": "35.1.3",
+            "version_name": "",
             "device_platform": "android",
             "os": "android",
-            "ab_version": "35.1.3",
+            "ab_version": "39.6",
             "ssmix": "a",
             "device_type": "SM-G988B",
             "device_brand": "samsung",
@@ -138,7 +138,7 @@ TikTok accounts maker created users algorithms x-ladon x-argus x-gorgon last ver
             "uoo": "0",
             "op_region": "US",
             "timezone_offset": "-21600",
-            "build_number": "35.1.3",
+            "build_number": "39.6",
             "host_abi": "arm64-v8a",
             "locale": "en",
             "region": "US",
