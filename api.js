@@ -1,7 +1,7 @@
 ### contact me
-**Contact for api :** [https://t.me/Neo_Galaxy](https://t.me/Neo_Galaxy)
+**Contact for api :** [https://t.me/alethino](https://t.me/alethino)
                        
-## telegram: @Neo_Galaxy
+## telegram: @alethino
 
 "use strict";
 var __awaiter = (this && this.__awaiter) || function (thisArg, _arguments, P, generator) {
